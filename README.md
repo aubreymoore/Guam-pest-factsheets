@@ -1,9 +1,9 @@
 # Guam-pest-factsheets
 
 ## ADAP
--[Cluster Caterpillar, **Spodoptera litura**](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-3.pdf)
--[Coconut Rhinoceros Beetle,**Oryctes rhinoceros**]()
--[Coconut Scale, **Aspidiotus destructor**]()
+- [Cluster Caterpillar, **Spodoptera litura**](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-3.pdf)
+- [Coconut Rhinoceros Beetle,**Oryctes rhinoceros**]()
+- [Coconut Scale, **Aspidiotus destructor**]()
 -[Cowpea Aphid, **Aphis craccivora**]()
 -[Green Scale, **Coccus viidis**]()
 -[Hemispherical Scale, **Saissetia coffeae**]()
