@@ -1,5 +1,8 @@
 # Guam Pest Fact Sheets
 
+- [GitHub pages](https://https://aubreymoore.github.io/Guam-pest-factsheets/)
+- [GitHub repository](https://github.com/aubreymoore/Guam-pest-factsheets)
+
 ## Guam Pest Series
 
 - [Fruit-piercing moth, *Eudemia (Othreis) fullonia*](Guam-pest-series/PS_88_2.pdf)
