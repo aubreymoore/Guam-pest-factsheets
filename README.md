@@ -15,7 +15,7 @@
 - [Eriophyid mite on fern, *Floracarus footei*](pdfs/PS_xx.pdf)
 - [Bean pod borer, *Maruca testulalis*](pdfs/PS_88_10.pdf)
 - [Banana skipper, *Erionata thrax*](pdfs/PS_88_15.pdf)
-- [Red orcid scale, *Furcaspis biformis*](pdfs/PS_88_20.pdf)
+- [Red orchid scale, *Furcaspis biformis*](pdfs/PS_88_20.pdf)
 - [Mango shoot caterpillar, *Penicillaria jocosatrix*](pdfs/PS_88_4.pdf)
 - [Mexican creeper, *Antigonan leptopus*](pdfs/PS_xxx.pdf)
 - [Bean fly, *Ophiomyia phaseoli*](pdfs/PS_88_11.pdf)
