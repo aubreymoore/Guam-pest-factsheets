@@ -3,10 +3,15 @@
 [GitHub pages](https://aubreymoore.github.io/Guam-pest-factsheets)
  | [GitHub repository](https://github.com/aubreymoore/Guam-pest-factsheets)
 
+## Pests of Guam Series
+- [PGS_7: Flea hopper, *Halticus tibialis*](pdfs/PGS_7.pdf)
+- [PGS_9: Philippine lady beetle, *Epilachna philippinensis*](pdfs/PGS_9.pdf)
+- [PG_10: Turnip aphid, *Hyadaphis erysimi*](pdfs/PGS_10.pdf)  
+
 ## Guam Pest Series
 
-- [Fruit-piercing moth, *Eudemia (Othreis) fullonia*](Guam-pest-series/PS_88_2.pdf)
-- [Red-banded thrips, *Selenothrips rubrocinctus*](Guam-pest-series/PS_88_8.pdf)
+- [Fruit-piercing moth, *Eudemia (Othreis) fullonia*](pdfs/PS_88_2.pdf)
+- [Red-banded thrips, *Selenothrips rubrocinctus*](pdfs/PS_88_8.pdf)
 - [Asiatic corn borer, *Ostrinia furnicalis*](pdfs/PS_1.pdf)
 - [Wooly whitefly, *Aleurothrixus floccosus*](pdfs/PS_88_13.pdf)
 - [Phalaenopsis mite, *Tenuipalpus pacificus*](pdfs/PS_88_19.pdf)
@@ -37,4 +42,8 @@
 - [Philippine Ladybeetle, *Epilachna viginsexpunctata* and Cucumber Ladybeetle, *E. cucurbitae*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-14.pdf)
 - [Striped Mealybug, *Ferrisia virgata*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-18.pdf)
 - [Taro Hornworm or Taro Hawkmoth, *Hippotion celerio*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-20.pdf)
-- [Taro Root Aphid, *Patchiella reaumuri*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-21.pdf) 	
+- [Taro Root Aphid, *Patchiella reaumuri*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-21.pdf) 
+
+## Pest Sheet Series
+
+- [Asian cycad scale, *Aulacaspis yasumatsui*](Aulacaspis_yasumatsui.pdf)
