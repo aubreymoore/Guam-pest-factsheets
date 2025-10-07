@@ -46,4 +46,4 @@
 
 ## Pest Sheet Series
 
-- [Asian cycad scale, *Aulacaspis yasumatsui*](Aulacaspis_yasumatsui.pdf)
+- [Asian cycad scale, *Aulacaspis yasumatsui*](pdfs/Aulacaspis_yasumatsui.pdf)
