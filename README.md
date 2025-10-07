@@ -34,7 +34,7 @@
 - [Coconut Rhinoceros Beetle,*Oryctes rhinoceros*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-4.pdf)
 - [Coconut Scale, *Aspidiotus destructor*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-5.pdf)
 - [Cowpea Aphid, *Aphis craccivora*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-6.pdf)
-- [Green Scale, *Coccus viidis*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-7.pdf)
+- [Green Scale, *Coccus viridis*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-7.pdf)
 - [Hemispherical Scale, *Saissetia coffeae*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-8.pdf)
 - [New Guinea Sugarcane Weevil, *Rhabdoscelus obscurus*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-9.pdf)
 - [Melon Aphid, *Aphis gossypii*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-10.pdf)
