@@ -1,6 +1,6 @@
 # Guam Pest Fact Sheets
 
-[GitHub pages](//https://aubreymoore.github.io/Guam-pest-factsheets)
+[GitHub pages](https://aubreymoore.github.io/Guam-pest-factsheets)
  | [GitHub repository](https://github.com/aubreymoore/Guam-pest-factsheets)
 
 ## Guam Pest Series
