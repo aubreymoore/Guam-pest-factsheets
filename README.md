@@ -47,3 +47,11 @@
 ## Pest Sheet Series
 
 - [Asian cycad scale, *Aulacaspis yasumatsui*](pdfs/Aulacaspis_yasumatsui.pdf)
+
+## Guam Invasive Species Alerts
+
+- [2013-01: Eggplant mealybug, *Coccidohystrix insolita*](pdfs/eggplantMealybug_0.pdf)
+
+## Related Resources
+
+- [LaTeX template for Guam Invasive Species Alerts](https://www.overleaf.com/latex/templates/guam-new-invasive-species-alert-template/xmyythnqhymz)
