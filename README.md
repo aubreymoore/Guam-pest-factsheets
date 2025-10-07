@@ -4,9 +4,9 @@
  | [GitHub repository](https://github.com/aubreymoore/Guam-pest-factsheets)
 
 ## Pests of Guam Series
-- [PGS_7: Flea hopper, *Halticus tibialis*](pdfs/PGS_7.pdf)
-- [PGS_9: Philippine lady beetle, *Epilachna philippinensis*](pdfs/PGS_9.pdf)
-- [PG_10: Turnip aphid, *Hyadaphis erysimi*](pdfs/PGS_10.pdf)  
+- [PGS07: Flea hopper, *Halticus tibialis*](pdfs/PGS_7.pdf)
+- [PGS09: Philippine lady beetle, *Epilachna philippinensis*](pdfs/PGS_9.pdf)
+- [PGS10: Turnip aphid, *Hyadaphis erysimi*](pdfs/PGS_10.pdf)  
 
 ## Guam Pest Series
 
