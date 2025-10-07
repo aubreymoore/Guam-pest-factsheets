@@ -46,13 +46,13 @@
 
 ## Pest Sheet Series
 
-- [Asian cycad scale, *Aulacaspis yasumatsui*](pdfs/Aulacaspis_yasumatsui.pdf)
+- [2005-01: Asian cycad scale, *Aulacaspis yasumatsui*](pdfs/Aulacaspis_yasumatsui.pdf)
 
 ## Guam Invasive Species Alerts
 
 - [2013-01: Eggplant mealybug, *Coccidohystrix insolita*](pdfs/eggplantMealybug.pdf)
 - [2016-01: Greater banded hornet, *Vespa tropica*](pdfs/vespa-tropica.pdf)
-- [*Cydalima-laticostalis*](pdfs/cydalima-laticostalis.pdf)
+- [2015-01: Crambid moth, *Cydalima-laticostalis*](pdfs/cydalima-laticostalis.pdf)
 
 ## Related Resources
 
