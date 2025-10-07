@@ -50,7 +50,9 @@
 
 ## Guam Invasive Species Alerts
 
-- [2013-01: Eggplant mealybug, *Coccidohystrix insolita*](pdfs/eggplantMealybug_0.pdf)
+- [2013-01: Eggplant mealybug, *Coccidohystrix insolita*](pdfs/eggplantMealybug.pdf)
+- [*Vespa tropica*](pdfs/vespa-tropica.pdf)
+- [*Cydalima-laticostalis*](pdfs/cydalima-laticostalis)
 
 ## Related Resources
 
