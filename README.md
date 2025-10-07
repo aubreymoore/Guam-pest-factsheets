@@ -51,8 +51,8 @@
 ## Guam Invasive Species Alerts
 
 - [2013-01: Eggplant mealybug, *Coccidohystrix insolita*](pdfs/eggplantMealybug.pdf)
-- [*Vespa tropica*](pdfs/vespa-tropica.pdf)
-- [*Cydalima-laticostalis*](pdfs/cydalima-laticostalis)
+- [2016-01: Greater banded hornet, *Vespa tropica*](pdfs/vespa-tropica.pdf)
+- [*Cydalima-laticostalis*](pdfs/cydalima-laticostalis.pdf)
 
 ## Related Resources
 
