@@ -1,7 +1,7 @@
 # Guam Pest Fact Sheets
 
-- [GitHub pages](https://https://aubreymoore.github.io/Guam-pest-factsheets/)
-- [GitHub repository](https://github.com/aubreymoore/Guam-pest-factsheets)
+[GitHub pages](https://https://aubreymoore.github.io/Guam-pest-factsheets/)
+ | [GitHub repository](https://github.com/aubreymoore/Guam-pest-factsheets)
 
 ## Guam Pest Series
 
@@ -23,7 +23,7 @@
 - [Sweet potato whitefly, *Bemisia tabaci*](pdfs/PS_88-5.pdf)
 - [Yam rust mite, *Calacarus dioscoreae*](pdfs/PS_x.pdf)
 
-## ADAP
+## ADAP Agricultural Pests of the Pacific Series
 
 - [Cluster Caterpillar, *Spodoptera litura*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-3.pdf)
 - [Coconut Rhinoceros Beetle,*Oryctes rhinoceros*](https://www.ctahr.hawaii.edu/adap/Publications/ADAP_pubs/2000-4.pdf)
