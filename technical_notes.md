@@ -1,12 +1,10 @@
 # Technical Notes
 
-A library of fact sheets for insect pests recorded on Guam and elsewhere in Micronesia used to be available as downloadable PDFs on the University of Guam website. However, it appears that access to this content was removed during 2022 or 2023. This repository is intended to restore public access to the fact sheets.
+A library of fact sheets for insect pests recorded on Guam and elsewhere in Micronesia used to be available as downloadable PDFs on the University of Guam website. However, it appears that access to this content was removed during 2022. This repository is intended to restore public access to the fact sheets.
 
 Finding PDFs for many of the older series of fact sheets was relatively easy. But finding PDFs for *Guam New Invasive Species Alerts* was challenging. These PDFs are scientifically valuable because they document first island records for invasive species.
 
-A version of the [*Alerts* web page](https://web.archive.org/web/20220119040011/https://cnas-re.uog.edu/guam-new-invasive-species-alerts/) was located using the [Wayback Machine](web.archive.org) which provides access to more than 945 billion archived web pages. 
-
-The web page was accessed using [this link](https://web.archive.org/web/20220119040011/https://cnas-re.uog.edu/guam-new-invasive-species-alerts/).
+A version of the [*Alerts* web page](https://web.archive.org/web/20220119040011/https://cnas-re.uog.edu/guam-new-invasive-species-alerts/) was located using the [Wayback Machine](web.archive.org) which provides access to more than 945 billion archived web pages. The web page was accessed using [this link](https://web.archive.org/web/20220119040011/https://cnas-re.uog.edu/guam-new-invasive-species-alerts/).
 Here's a screenshot of the page as it looked when it was archived at 2022-01-19 04:00:10 UTC:
 
 ![](images/wayback.png)
@@ -25,18 +23,10 @@ This list of links to PDFs was built by clicking on the <u>links</u> button for 
 - camphor scale: https://web.archive.org/web/20220119040011/http://guaminsects.net/anr/sites/default/files/camphorscale2.pdf
 - eggplant mealybug: https://web.archive.org/web/20220119040011/http://guaminsects.net/anr/sites/default/files/eggplantMealybug.pdf
 
+The links were used to download PDFs from ```web.archive.org``` into this repository using the ```wget``` commeand:
 
 ```
 wget 'https://web.archive.org/web/20220119040011/http://guaminsects.net/anr/sites/default/files/cydalima-laticostalis(1)_0.pdf'
 ```
 
-
-
-# Retrieving PDFs from guaminsects.net
-
-```
-mkdir temp_anr_pdfs
-cd temp_anr_pdfs
-scp aubreymoore@guaminsects.net:~/guaminsects.net/anr/sites/default/files/*.pdf anr_pdfs
-```
-
+The really interesting thing here is that links from one 'dead' web site, ```cnas-re.uog```, are used to extract PDFs from another 'dead' website, ```guaminsects.net/anr```. Thanks to ```web.archive.org``` and the ```Wayback Machine```.

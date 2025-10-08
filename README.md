@@ -65,4 +65,8 @@
 
 ## Related Resources
 
-- [LaTeX template for Guam Invasive Species Alerts](https://www.overleaf.com/latex/templates/guam-new-invasive-species-alert-template/xmyythnqhymz)
+- [LaTeX Template for Guam Invasive Species Alerts](https://www.overleaf.com/latex/templates/guam-new-invasive-species-alert-template/xmyythnqhymz)
+- [Wiki template for Fact Sheets](https://open.clemson.edu/joe/vol46/iss3/23/) I am trying to find a PDF for this journal article.
+- [List of Insects and Mites Attacking Crops in Micronesia](https://aubreymoore.github.io/crop-pest-list/)
+- [Micronesian Entomology Resources](https://aubreymoore.github.io/Micronesian-entomology-resources/)
+
