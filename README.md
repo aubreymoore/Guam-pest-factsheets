@@ -54,7 +54,7 @@
 - [2013-01: Eggplant mealybug, *Coccidohystrix insolita*](pdfs/alerts/eggplantMealybug.pdf)
 - [2016-01: Greater banded hornet, *Vespa tropica*](pdfs/alerts/vespa_tropica.pdf)
 - [2015-01: Crambid moth, *Cydalima-laticostalis*](pdfs/alerts/cydalima-laticostalis(1)_0.pdf)
-- [Brown marmorated stinkbug](pdfs/alerts/brownMarmoratedStinkGug.pdf)
+- [Brown marmorated stinkbug](pdfs/alerts/brownMarmoratedStinkBug.pdf)
 - [Calligrapha californica](pdfs/alerts/calligrapha-californica(2).pdf)
 - [Camphor scale](pdfs/alerts/camphorscale2.pdf)
 - [Castor hairy caterpillar](pdfs/alerts/castor_hairy_caterpillar.pdf)
