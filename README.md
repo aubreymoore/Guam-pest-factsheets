@@ -2,6 +2,7 @@
 
 [GitHub pages](https://aubreymoore.github.io/Guam-pest-factsheets)
  | [GitHub repository](https://github.com/aubreymoore/Guam-pest-factsheets)
+ | [Technical notes](technical_notes)
 
 ## Pests of Guam Series
 - [PGS07: Flea hopper, *Halticus tibialis*](pdfs/PGS_7.pdf)
