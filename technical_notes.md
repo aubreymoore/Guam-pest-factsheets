@@ -26,6 +26,11 @@ This list of links to PDFs was built by clicking on the <u>links</u> button for 
 - eggplant mealybug: https://web.archive.org/web/20220119040011/http://guaminsects.net/anr/sites/default/files/eggplantMealybug.pdf
 
 
+```
+wget 'https://web.archive.org/web/20220119040011/http://guaminsects.net/anr/sites/default/files/cydalima-laticostalis(1)_0.pdf'
+```
+
+
 
 # Retrieving PDFs from guaminsects.net
 

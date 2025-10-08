@@ -51,9 +51,18 @@
 
 ## Guam Invasive Species Alerts
 
-- [2013-01: Eggplant mealybug, *Coccidohystrix insolita*](pdfs/eggplantMealybug.pdf)
-- [2016-01: Greater banded hornet, *Vespa tropica*](pdfs/vespa-tropica.pdf)
-- [2015-01: Crambid moth, *Cydalima-laticostalis*](pdfs/cydalima-laticostalis.pdf)
+- [2013-01: Eggplant mealybug, *Coccidohystrix insolita*](pdfs/alerts/eggplantMealybug.pdf)
+- [2016-01: Greater banded hornet, *Vespa tropica*](pdfs/alerts/vespa_tropica.pdf)
+- [2015-01: Crambid moth, *Cydalima-laticostalis*](pdfs/alerts/cydalima-laticostalis(1)_0.pdf)
+- [Brown marmorated stinkbug](pdfs/alerts/brownMarmoratedStinkGug.pdf)
+- [Calligrapha californica](pdfs/alerts/calligrapha-californica(2).pdf)
+- [Camphor scale](pdfs/alerts/camphorscale2.pdf)
+- [Castor hairy caterpillar](pdfs/alerts/castor_hairy_caterpillar.pdf)
+- [Eggplant mealybug](pdfs/alerts/eggplantMealybug.pdf)
+- [Ixora leafmining weevil](pdfs/alerts/ixora-leafmining-weevil.pdf)
+- [Unidentified cockroach](pdfs/alerts/newpestroach.pdf)
+- [Spotted cucuumber beetle](pdfs/alerts/spotted_cucumber_beetle.pdf)
+- [Greater banded hornet, *Vespa tropica*](pdfs/alerts/vespa_tropica.pdf)
 
 ## Related Resources
 
